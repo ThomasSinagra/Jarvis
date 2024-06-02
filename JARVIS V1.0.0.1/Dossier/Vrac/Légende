@@ -1,0 +1,10 @@
+ph=phrase d'entrée en variable str
+
+
+phlc=phrase d'entrée sous forme de liste avec le mot "Jarvis"
+
+
+phl=phrase d'entrée sous forme de liste sans le mot "Jarvis" et sans espace inutiles
+
+
+phls=phrase d'entrée sous forme de liste sans stop word

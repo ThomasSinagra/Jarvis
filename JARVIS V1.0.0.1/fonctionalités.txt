@@ -1,0 +1,17 @@
+Fait :
+    - Minuteur
+    - Copie l'adresse mail dans le presse papier
+    - Enregistrer le contenue du presse papier dans un fichier
+    - Ouvrir app
+
+
+A faire :
+    - Coller presse papier dans fichier txt dans le but de le relire plus tard
+
+
+
+
+
+Téléphone
+
+AIzaSyDHtKz_EjUM6sE1m8Ed6rEjzrHmrSjQ9Dc
