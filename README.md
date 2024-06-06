@@ -1,7 +1,9 @@
 # JARVIS #
 
 Hey, I'm glad to present you one of my little code : I created a personal assistant, it's named JARVIS, like Iron Man AI
+
 Actually JARVIS speak french, I will probably add more languages in 2025
+
 Before adding other languages, I will make JARVIS more intelligent, I hope that I can link it to some services like Spotify or Google
 
 
